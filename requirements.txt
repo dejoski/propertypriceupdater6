@@ -1,0 +1,11 @@
+Flask
+gunicorn
+requests
+flask-cors
+pandas
+bs4
+SQLAlchemy
+PyMySQL
+selenium
+webdriver-manager
+selenium-requests
